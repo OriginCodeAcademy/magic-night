@@ -4,4 +4,4 @@ This repository contains the magic night challenges we have presented until this
 
 ## Challenges
 
-1. [Texas Hold Em]()
+1. [Texas Hold Em](https://github.com/OriginCodeAcademy/magic-night/tree/master/01-TexasHoldEm)
