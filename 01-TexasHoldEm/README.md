@@ -15,7 +15,7 @@ Write a NodeJS script to read in a text file describing the final hands after a 
 
 ## Example Input/Output
 
-#### Input
+### Input
 Each card is a pair of characters. The first character represents the face, the second is the suit. Cards are separated by exactly one space.
 
 `Kc` - King of Clubs
@@ -34,7 +34,7 @@ Ac Qc Ks Kd 9d 3c
 7s Ts Ks Kd 9d
 ```
 
-#### Output
+### Output
 ```
 Kc 9s Ks Kd 9d 3c 6d Full House (winner)
 9c Ah Ks Kd 9d 3c 6d Two Pair
@@ -43,6 +43,15 @@ Ac Qc Ks Kd 9d 3c
 4d 2d Ks Kd 9d 3c 6d Flush
 7s Ts Ks Kd 9d 
 ```
+
+## High Level Overview
+
+- [ ] Create a new folder on one of your teammates devices.
+- [ ] Create a new text file within this folder named `cards.txt`.
+- [ ] Run `npm init` and `git init` to initialize the project.
+- [ ] Create an `index.js` file to house your code.
+- [ ] Work on the solution inside of `index.js`.
+- [ ] Push your solution to GitHub (Fork the project if your GitHub wasn't used)
 
 ## Extra
 - Can you rearrange the cards to make it super clear to the announcers which hand won?
